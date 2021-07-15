@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/61917801/125787258-908657b8-6eeb-490c-b03d-9460b211605b.png" width="400">
+<img src="https://user-images.githubusercontent.com/61917801/125787258-908657b8-6eeb-490c-b03d-9460b211605b.png" width="300">
 
 - 👋 Oi, me chamo Metheus Feitosa
 - 👀 Ah procura de conhecimento para me manter atualizado.
