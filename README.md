@@ -1,5 +1,5 @@
 
-<img src="https://piskel-imgstore-b.appspot.com/img/3a0ac1d4-e5aa-11eb-8e22-8b38738f67fe.gif" width="300" align="right" >
+<img src="https://piskel-imgstore-b.appspot.com/img/3a0ac1d4-e5aa-11eb-8e22-8b38738f67fe.gif" width="250" align="right" >
 
 # Hi
 Me chamo Metheus Feitosa tenho 24 anos e moro em Teresina Pi
