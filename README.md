@@ -4,7 +4,7 @@
 # Hi
 Me chamo Metheus Feitosa tenho 24 anos e moro em Teresina Pi
 - Ah procura de conhecimento para me manter atualizado.
-- Graduando em Ciência da computação.</br>
+- Graduado em Ciência da computação.</br>
 - Atualmente trabalho na empresa G3 telecom piaui como fiscal de qualidade.</br>
 - Fale comigo:matheusfeitosa1997@outlook.com
 
